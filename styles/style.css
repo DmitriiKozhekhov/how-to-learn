@@ -127,7 +127,7 @@
 }
 
 .section__title {
-  width: 60%; 
+  width: 60%;
   top: 100px;
   text-align: center;
   margin:0;
@@ -241,14 +241,14 @@
 }
 
 .section__title_theme_dark {
-  width: 60%; 
+  width: 60%;
   text-align: center;
   margin:0;
   line-height: 1.15;
   font-size: 60px;
   font-weight: bold;
   background-color: #1f1f1f;
-  color: white
+  color: white;
 }
 
 .section__subtitle_theme_dark {
@@ -259,7 +259,7 @@
   font-size: 24px;
   font-weight: normal;
   background-color: #1f1f1f;
-  color: white
+  color: white;
 }
 
 .table_theme_dark {
