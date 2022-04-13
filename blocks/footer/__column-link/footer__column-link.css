@@ -2,8 +2,13 @@
     color:white;
     background-color: #1f1f1f;
     text-decoration: none;
-    padding-bottom: 16px;
+    margin-bottom: 16px;
     line-height: 30px;
     font-size: 18px;
     font-weight: normal;
+    transition: 1s linear; 
+}
+
+.footer__column-link:hover {
+    opacity: 0.5;
 }
